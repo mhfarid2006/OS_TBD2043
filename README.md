@@ -41,4 +41,4 @@ Code is written in **C++** and follows clean, readable standards.
 **Muhammad Farid**  
 📫 [GitHub Profile →](https://github.com/mhfarid2006)
 
-> “Code it. Commit it. Ship it.” 🧠
+> “Build. Break. Improve. Repeat.” 🧠
